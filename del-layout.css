@@ -1,0 +1,27 @@
+.clear{clear: both;}
+.overflow{overflow: auto;}
+
+.pull-left{float: left;}
+.pull-right{float: right;}
+
+.tl{text-align: left;}
+.tr{text-align: right;}
+.tc{text-align: center;}
+.tj{text-align: justify;}
+
+.centered{margin-left: auto; margin-right: auto;}
+
+.pc10{width: 10%;}
+.pc20{width: 20%;}
+.pc25{width: 25%;}
+.pc30{width: 30%;}
+.pc33{width: 33%;}
+.pc40{width: 40%;}
+.pc50{width: 50%;}
+.pc60{width: 60%;}
+.pc66{width: 66%;}
+.pc70{width: 70%;}
+.pc75{width: 75%;}
+.pc80{width: 80%;}
+.pc90{width: 90%;}
+.pc100{width: 100%;}
