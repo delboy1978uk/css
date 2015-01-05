@@ -16,4 +16,13 @@ without the need for you to use the dreaded !important
 .mlX, mrX, mtX, mbX and the same for margin left right etc<br />
 .pX same for padding<br />
 .plX prX ptX pbX and again<br />
-.nomargin and .nopadding are pretty self explanatory
+.nomargin and .nopadding are pretty self explanatory<br />&nbsp;<br />
+
+Usage
+-----
+
+```
+<?php
+use Del\Css;
+echo Css::add();
+```
