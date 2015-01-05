@@ -9,6 +9,8 @@
     ],
     "require": {},
     "autoload": {
-        "psr-4": {"Del\": "src/"}
+        "psr-4": {
+            "Del\\": "src/"
+        }
     }
 }
