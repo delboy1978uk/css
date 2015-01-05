@@ -1,6 +1,6 @@
 <?php
 
-namespace Del\Css;
+namespace Del;
 
 class Css
 {
