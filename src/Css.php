@@ -7,7 +7,7 @@ class Css
     public static function add()
     {
         $style = '<style>';
-        $style .= include(__DIR__.'/karate.css');
+        $style .= file_get_contents(__DIR__.'/karate.css');
         $style .= '</style>';
         return $style;
     }
