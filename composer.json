@@ -1,1 +1,14 @@
-
+{
+    "name": "delboy1978uk/css",
+    "description": "Karate Chop CSS™",
+    "authors": [
+        {
+            "name": "Derek Stephen McLean",
+            "email": "delboy1978uk@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Del\": "src/"}
+    }
+}
