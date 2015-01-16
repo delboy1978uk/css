@@ -3,6 +3,8 @@ html body div *.clear{clear: both;}
 html body div *.cl{clear: left;}
 html body div *.cr{clear: right;}
 
+html body div *.overflow{overflow: auto;}
+
 html body div *.tl{text-align: left;}
 html body div *.tr{text-align: right;}
 html body div *.tc{text-align: center;}
