@@ -11,6 +11,8 @@ html body div *.tc{text-align: center;}
 html body div *.tj{text-align: justify;}
 
 html body div *.centered{margin-left: auto; margin-right: auto;}
+html body div *.pull-left{float: left;}
+html body div *.pull-right{float: right;}
 
 html body div *.nopad{padding: 0px;}
 html body div *.nomargin{margin: 0px;}
