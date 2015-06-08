@@ -37,6 +37,7 @@ html body div *.nomargin{margin: 0px;}
 html body div *.nounderline, *.nounderline:hover, *.nounderline:active{text-decoration: none;}
 html body div *.nocursor{cursor: default;}
 html body div *.nospots{list-style: none;}
+html body div *.noborder{border: none;}
 html body div *.hide{display: none;}
 
 html body div *.posa{position: absolute;}
