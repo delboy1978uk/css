@@ -60,7 +60,7 @@ html body div *.pc80{width: 80%;}
 html body div *.pc90{width: 90%;}
 html body div *.pc100{width: 100%;}
 
-html body div *.m0{margin: 0px;}
+html body div *.m0{margin: 0;}
 html body div *.m5{margin: 5px;}
 html body div *.m10{margin: 10px;}
 html body div *.m15{margin: 15px;}
@@ -82,7 +82,7 @@ html body div *.m90{margin: 90px;}
 html body div *.m95{margin: 95px;}
 html body div *.m100{margin: 100px;}
 
-html body div *.ml0{margin-left: 0px;}
+html body div *.ml0{margin-left: 0;}
 html body div *.ml5{margin-left: 5px;}
 html body div *.ml10{margin-left: 10px;}
 html body div *.ml15{margin-left: 15px;}
@@ -104,7 +104,7 @@ html body div *.ml90{margin-left: 90px;}
 html body div *.ml95{margin-left: 95px;}
 html body div *.ml100{margin-left: 100px;}
 
-html body div *.mr0{margin-right: 0px;}
+html body div *.mr0{margin-right: 0;}
 html body div *.mr5{margin-right: 5px;}
 html body div *.mr10{margin-right: 10px;}
 html body div *.mr15{margin-right: 15px;}
@@ -126,7 +126,7 @@ html body div *.mr90{margin-right: 90px;}
 html body div *.mr95{margin-right: 95px;}
 html body div *.mr100{margin-right: 100px;}
 
-html body div *.mt0{margin-top: 0px;}
+html body div *.mt0{margin-top: 0;}
 html body div *.mt5{margin-top: 5px;}
 html body div *.mt10{margin-top: 10px;}
 html body div *.mt15{margin-top: 15px;}
@@ -148,7 +148,7 @@ html body div *.mt90{margin-top: 90px;}
 html body div *.mt95{margin-top: 95px;}
 html body div *.mt100{margin-top: 100px;}
 
-html body div *.mb0{margin-bottom: 0px;}
+html body div *.mb0{margin-bottom: 0;}
 html body div *.mb5{margin-bottom: 5px;}
 html body div *.mb10{margin-bottom: 10px;}
 html body div *.mb15{margin-bottom: 15px;}
@@ -170,7 +170,7 @@ html body div *.mb90{margin-bottom: 90px;}
 html body div *.mb95{margin-bottom: 95px;}
 html body div *.mb100{margin-bottom: 100px;}
 
-html body div *.p0{padding: 0px;}
+html body div *.p0{padding: 0;}
 html body div *.p5{padding: 5px;}
 html body div *.p10{padding: 10px;}
 html body div *.p15{padding: 15px;}
@@ -192,7 +192,7 @@ html body div *.m90{padding: 90px;}
 html body div *.m95{padding: 95px;}
 html body div *.m100{padding: 100px;}
 
-html body div *.pl0{padding-left: 0px;}
+html body div *.pl0{padding-left: 0;}
 html body div *.pl5{padding-left: 5px;}
 html body div *.pl10{padding-left: 10px;}
 html body div *.pl15{padding-left: 15px;}
@@ -214,7 +214,7 @@ html body div *.pl90{padding-left: 90px;}
 html body div *.pl95{padding-left: 95px;}
 html body div *.pl100{padding-left: 100px;}
 
-html body div *.pr0{padding-right: 0px;}
+html body div *.pr0{padding-right: 0;}
 html body div *.pr5{padding-right: 5px;}
 html body div *.pr10{padding-right: 10px;}
 html body div *.pr15{padding-right: 15px;}
@@ -236,7 +236,7 @@ html body div *.pr90{padding-right: 90px;}
 html body div *.pr95{padding-right: 95px;}
 html body div *.pr100{padding-right: 100px;}
 
-html body div *.pt0{padding-top: 0px;}
+html body div *.pt0{padding-top: 0;}
 html body div *.pt5{padding-top: 5px;}
 html body div *.pt10{padding-top: 10px;}
 html body div *.pt15{padding-top: 15px;}
@@ -258,7 +258,7 @@ html body div *.pt90{padding-top: 90px;}
 html body div *.pt95{padding-top: 95px;}
 html body div *.pt100{padding-top: 100px;}
 
-html body div *.pb0{padding-bottom: 0px;}
+html body div *.pb0{padding-bottom: 0;}
 html body div *.pb5{padding-bottom: 5px;}
 html body div *.pb10{padding-bottom: 10px;}
 html body div *.pb15{padding-bottom: 15px;}
